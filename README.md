@@ -8,7 +8,7 @@ My latest work includes flipkart cloning, which you can find [here](https://gith
 
 
 <h3>Find me around the web 🌎:</h3>
-<a href="https://www.linkedin.com/in/suryansh-pajiala-98a155154/" target="blank"><img align="center" src="https://image.shutterstock.com/image-photo/kiev-ukraine-june-7-2015-260nw-285114926.jpg" alt="suryanshpajiala" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suryansh-pajiala-98a155154/" target="blank"><img align="center" src="https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v982-d5-10_1.jpg?w=400&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&auto=format&ixlib=js-2.2.1&s=063c298deff4d29b6dbe8947359ee955" alt="suryanshpajiala" height="30" width="40" /></a>
 <a href="https://fb.com/suryanshpajiala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suryanshpajiala" height="30" width="40" /></a>
 <a href="https://instagram.com/sunny_pajiala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunny_pajiala" height="30" width="40" /></a>
 <a href="https://medium.com/@suryanshpajiala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@suryanshpajiala" height="30" width="40" /></a>
