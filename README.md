@@ -8,5 +8,6 @@ My latest work includes flipkart cloning, which you can find [here](https://gith
 
 
 <h3>Find me around the web 🌎:</h3>
+<a href="https://linkedin.com/in/suryanshpajiala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryanshpajiala" height="30" width="40" /></a>
 
-![image](https://user-images.githubusercontent.com/63901097/148338792-fc03a9e6-b1e5-4df2-9eb9-c119f4c2ff36.png)
+
