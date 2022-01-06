@@ -1,10 +1,7 @@
 ### Hi, I am Suryansh 👋
 
-I am an upcoming Full Stack Web Developer, who loves to create. React, 
+I'm a Full Stack Web Developer, passionate about learning new technologies and contributing for upliftment of community. I have worked extensively on Tech Stacks like HTML, NodeJS, MongoDB, ExpressJS and many more along with 200+hours of DSA. Currently, i am working on React framework. I like to indulge myself into photography and short walks, whenever i am not working.  
 <!--
-**Sunny9899/Sunny9899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
