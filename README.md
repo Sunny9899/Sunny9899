@@ -8,4 +8,4 @@ My latest work includes flipkart cloning, which you can find [here](https://gith
 
 
 <h3>Find me around the web 🌎:</h3>
-:gmail:
+<image src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width=20px, height=20px/>
