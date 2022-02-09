@@ -17,6 +17,17 @@ If you a Gmail person: suryanshpajiala@gmail.com
 
 -------------------------------------------------
 
+
+<h3>My Stats:</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny9899&layout=compact)
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sunny9899&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+    
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sunny9899&date_format=j%20M%5B%20Y%5D)
+
+---------------------------------------------------
+
 <h3> My Skills:</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -35,16 +46,5 @@ If you a Gmail person: suryanshpajiala@gmail.com
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
----------------------------------------------------
-<h3>My Stats:</h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny9899&layout=compact)
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sunny9899&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-    
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sunny9899&date_format=j%20M%5B%20Y%5D)
-
-
 
 
