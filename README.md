@@ -38,13 +38,13 @@ If you a Gmail person: suryanshpajiala@gmail.com
 
 ---------------------------------------------------
 <h3>My Stats:</h3>
-<div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny9899&layout=compact)]  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny9899&layout=compact)
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sunny9899&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
     
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sunny9899&date_format=j%20M%5B%20Y%5D)
-</div>
+
 
 
 
