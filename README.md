@@ -43,7 +43,7 @@ If you a Gmail person: suryanshpajiala@gmail.com
   
   
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny9899)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
   
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sunny9899&date_format=j%20M%5B%20Y%5D)
