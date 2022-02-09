@@ -12,5 +12,7 @@ My latest work includes flipkart cloning, which you can find [here](https://gith
 <a href="https://www.facebook.com/suryanshsunny.pajiala/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1644403605~hmac=a2bda4ede21b32109f3d30e9675fbb7a" alt="suryanshpajiala" height="40" width="40" /></a>
 <a href="https://www.instagram.com/sunny_pajiala/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="sunny_pajiala" height="40" width="40" /></a>
 <a href="https://medium.com/@suryanshpajiala" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2190/premium/2190431.png?token=exp=1644403673~hmac=f8a4f4607cf7901d0195f5cd0d0c1de4" alt="@suryanshpajiala" height="40" width="40" /></a>
-<a target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="@suryanshpajiala" height="40" width="40" /></a>
 
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sunny9899&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
