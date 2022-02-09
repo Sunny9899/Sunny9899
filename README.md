@@ -34,8 +34,10 @@ Skills
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
+---------------------------------------------------
+My Stats:
+<div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sunny9899&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sunny9899&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
