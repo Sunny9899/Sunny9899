@@ -26,7 +26,7 @@ If you a Gmail person: suryanshpajiala@gmail.com
     
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sunny9899&date_format=j%20M%5B%20Y%5D)
 
-
+-------------------------------------------------
 
 <h3> Languages & Tools:</h3>
 <div>
@@ -37,11 +37,10 @@ If you a Gmail person: suryanshpajiala@gmail.com
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/es6-logo-png-transparent.png" title="ES6" alt="ES6" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;  
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/es6-logo-png-transparent.png" title="ES6" alt="ES6" width="40" height="40"/>&nbsp;   
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;  
-  <img src="https://www.pinpng.com/pngs/m/538-5385393_how-to-install-postman-native-app-in-linux.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;    
+  <img src="https://notifystatus.io/images/parent/postman.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;    
   Express
   Es6 
   MongoDb 
