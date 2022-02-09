@@ -40,12 +40,7 @@ If you a Gmail person: suryanshpajiala@gmail.com
   <img src="https://cdn.freebiesupply.com/logos/large/2x/es6-logo-png-transparent.png" title="ES6" alt="ES6" width="40" height="40"/>&nbsp;   
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;  
-  <img src="https://notifystatus.io/images/parent/postman.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;    
-  Express
-  Es6 
-  MongoDb 
-  Heroku 
-  
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;      
 </div>
 
 
