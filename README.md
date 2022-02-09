@@ -5,11 +5,11 @@ I'm a Full Stack Web Developer, passionate about learning new technologies and c
 
 My latest work includes flipkart cloning, which you can find [here](https://github.com/vasukomuravelli/Flipkart_Backend).
 
-
+If you a Gmail person: suryanshpajiala@gmail.com
 
 ------------------------------------------------
 
-<h3>Skills</h3>
+<h3> My Skills:</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
