@@ -1,9 +1,9 @@
 ### <h2>Hi, I am Suryansh 👋 </h2>
 
-I'm a Full Stack Web Developer, passionate about learning new technologies and contributing for upliftment of community. I have worked extensively on Tech Stacks like HTML, NodeJS, MongoDB, ExpressJS and many more along with 200+hours of DSA. Currently, i am working on React framework. I like to indulge myself into photography and short walks, whenever i am not working. 
+I'm a Full Stack Web Developer, passionate about learning new technologies and contributing for upliftment of community. I have worked extensively on Tech Stacks like HTML, NodeJS, ReactJS, MongoDB, ExpressJS and many more along with DSA. Photography and Travelling are what i do on weekends.
 
 
-My latest work includes flipkart cloning, which you can find [here](https://github.com/vasukomuravelli/Flipkart_Backend).
+My latest work includes Flipkart clone, which you can find [here](https://github.com/vasukomuravelli/Flipkart_Backend).
 
 If you a Gmail person: suryanshpajiala@gmail.com
 
@@ -30,7 +30,7 @@ If you a Gmail person: suryanshpajiala@gmail.com
 
 <h3> My Skills:</h3>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
