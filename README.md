@@ -15,7 +15,7 @@ My latest work includes flipkart cloning, which you can find [here](https://gith
 
 ------------------------------------------------
 
-Skills
+<h3>Skills</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -35,7 +35,7 @@ Skills
 </div>
 
 ---------------------------------------------------
-My Stats:
+<h3>My Stats:</h3>
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sunny9899&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   
