@@ -26,7 +26,7 @@ If you a Gmail person: suryanshpajiala@gmail.com
     
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sunny9899&date_format=j%20M%5B%20Y%5D)
 
----------------------------------------------------
+
 
 <h3> My Skills:</h3>
 <div>
