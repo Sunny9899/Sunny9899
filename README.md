@@ -3,7 +3,7 @@
 I'm a Full Stack Web Developer, passionate about learning new technologies and contributing for upliftment of community. I have worked extensively on Tech Stacks like HTML, NodeJS, ReactJS, MongoDB, ExpressJS and many more along with DSA. Photography and Travelling are what i do on weekends.
 
 
-My latest work includes Flipkart clone, which you can find [here](https://github.com/vasukomuravelli/Flipkart_Backend).
+My latest work includes Practo clone, which you can find [here](https://genuine-muffin-635988.netlify.app/).
 
 If you a Gmail person: suryanshpajiala@gmail.com
 
